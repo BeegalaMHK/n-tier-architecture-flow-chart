@@ -12,7 +12,7 @@ function ArchitectureDiagram() {
     <div className="diagram-container relative">
       <div className="text-center mb-8">
         <h1 className="text-2xl font-bold text-gray-800">
-          Multi-Tier Architecture
+          N-Tier Architecture(Multi-Tier)
         </h1>
         <p className="text-gray-600 mt-2">
           Modern Enterprise Application Structure with Technology Stack
